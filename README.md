@@ -10,3 +10,4 @@ Site do projeto pode ser conferido aqui: https://iorgama.github.io/caravan-boots
 - CSS
 - HTML
 - JS
+- SASS
